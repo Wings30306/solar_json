@@ -1,0 +1,86 @@
+{
+"production": [
+{
+"type": "inverters",
+"activeCount": 10,
+"readingTime": 1639407468,
+"wNow": 27,
+"whLifetime": 11551135
+},
+{
+"type": "eim",
+"activeCount": 1,
+"measurementType": "production",
+"readingTime": 1639407495,
+"wNow": 20.407,
+"whLifetime": 11634514.339,
+"varhLeadLifetime": 0,
+"varhLagLifetime": 4212062.877,
+"vahLifetime": 13282082.741,
+"rmsCurrent": 0.555,
+"rmsVoltage": 235.283,
+"reactPwr": 131.167,
+"apprntPwr": 131.167,
+"pwrFactor": 0.17,
+"whToday": 540.339,
+"whLastSevenDays": 11403.339,
+"vahToday": 1651.741,
+"varhLeadToday": 0,
+"varhLagToday": 1898.877
+}
+],
+"consumption": [
+{
+"type": "eim",
+"activeCount": 1,
+"measurementType": "total-consumption",
+"readingTime": 1639407495,
+"wNow": 257.761,
+"whLifetime": 10879433.805,
+"varhLeadLifetime": 9153896.738,
+"varhLagLifetime": 4242457.311,
+"vahLifetime": 21880919.534,
+"rmsCurrent": 2.427,
+"rmsVoltage": 235.195,
+"reactPwr": -474.719,
+"apprntPwr": 570.811,
+"pwrFactor": 0.45,
+"whToday": 9238.805,
+"whLastSevenDays": 92870.805,
+"vahToday": 11944.534,
+"varhLeadToday": 5039.738,
+"varhLagToday": 1901.311
+},
+{
+"type": "eim",
+"activeCount": 1,
+"measurementType": "net-consumption",
+"readingTime": 1639407495,
+"wNow": 237.354,
+"whLifetime": 8022691.669,
+"varhLeadLifetime": 9153896.738,
+"varhLagLifetime": 30394.434,
+"vahLifetime": 21880919.534,
+"rmsCurrent": 1.872,
+"rmsVoltage": 235.108,
+"reactPwr": -343.552,
+"apprntPwr": 440.502,
+"pwrFactor": 0.53,
+"whToday": 0,
+"whLastSevenDays": 0,
+"vahToday": 0,
+"varhLeadToday": 0,
+"varhLagToday": 0
+}
+],
+"storage": [
+{
+"type": "acb",
+"activeCount": 0,
+"readingTime": 0,
+"wNow": 0,
+"whNow": 0,
+"state": "idle"
+}
+]
+}
